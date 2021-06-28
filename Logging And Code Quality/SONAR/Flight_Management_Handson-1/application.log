@@ -1,0 +1,13 @@
+18:50:06.925 28-06-21 main                  INFO ightManagementApplication               logStarting   55 Starting FlightManagementApplication using Java 15.0.2 on SUGU with PID 54592 (E:\CTS-INTERN\software\sts-4.10.0.RELEASE\WORKSPACE\SONAR\FlightManagement\target\classes started by Suganth in E:\CTS-INTERN\software\sts-4.10.0.RELEASE\WORKSPACE\SONAR\FlightManagement)
+18:50:06.931 28-06-21 main                  INFO ightManagementApplication     logStartupProfileInfo  659 No active profile set, falling back to default profiles: default
+18:50:09.396 28-06-21 main                  INFO s.b.w.e.t.TomcatWebServer                initialize  108 Tomcat initialized with port(s): 8080 (http)
+18:50:09.423 28-06-21 main                  INFO o.a.c.c.StandardService                         log  173 Starting service [Tomcat]
+18:50:09.425 28-06-21 main                  INFO o.a.c.core.StandardEngine                       log  173 Starting Servlet engine: [Apache Tomcat/9.0.46]
+18:50:09.680 28-06-21 main                  INFO o.a.c.c.C.[.[.[/]                               log  173 Initializing Spring embedded WebApplicationContext
+18:50:09.680 28-06-21 main                  INFO bServerApplicationContext prepareWebApplicationContext  290 Root WebApplicationContext: initialization completed in 2662 ms
+18:50:10.555 28-06-21 main                  INFO s.b.w.e.t.TomcatWebServer                     start  220 Tomcat started on port(s): 8080 (http) with context path ''
+18:50:10.575 28-06-21 main                  INFO ightManagementApplication                logStarted   61 Started FlightManagementApplication in 4.849 seconds (JVM running for 6.942)
+18:52:06.419 28-06-21 http-nio-8080-exec-1  INFO o.a.c.c.C.[.[.[/]                               log  173 Initializing Spring DispatcherServlet 'dispatcherServlet'
+18:52:06.420 28-06-21 http-nio-8080-exec-1  INFO o.s.w.s.DispatcherServlet           initServletBean  525 Initializing Servlet 'dispatcherServlet'
+18:52:06.423 28-06-21 http-nio-8080-exec-1  INFO o.s.w.s.DispatcherServlet           initServletBean  547 Completed initialization in 2 ms
+18:52:23.036 28-06-21 http-nio-8080-exec-4  WARN tHandlerExceptionResolver              logException  207 Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
